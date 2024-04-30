@@ -1,5 +1,5 @@
 <div align=center>
   
-  [![man HeoJinYoung](/src/index.svg)]
+  ![man HeoJinYoung](/src/index.svg)
   
 </div>
