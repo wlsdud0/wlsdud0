@@ -113,7 +113,7 @@
                     <text class="title" x="0" y="0">OPTIONS</text>
                     <g class="content" transform="translate(0, 20)">
                         <text class="content" x="40" y="0">The following options are understood:</text>
-                         < <g transform="translate(0, 20)">
+                          <g transform="translate(0, 20)">
                             <text class="bold" x="40" y="0">--LIST=</text>
                             <!-- <a href="https://sim.dasong.dev">
                                 <text x="80" y="20">https://sim.dasong.dev</text>
