@@ -126,7 +126,7 @@
                             </a>
                         </g>
                          <g transform="translate(0, 100)">
-                            <text class="bold" x="40" y="0">blog=</text>
+                            <text class="bold" x="40" y="0">--blog=</text>
                             <a href="https://wlsdud0.oopy.io">
                                 <text x="80" y="20">https://wlsdud0.oopy.io</text>
                             </a>
