@@ -91,7 +91,7 @@
                         <text class="title">NAME</text>
                         <text class="content" x="40" y="20">
                             <tspan class="bold">HeoJinYoung</tspan>
-                            <tspan>- developer</tspan>
+                            <tspan>- engineer</tspan>
                         </text>
                     </g>
                 </g>
@@ -106,7 +106,7 @@
                     <text class="title" x="0" y="0">DESCRIPTION</text>
                     <text class="content" x="40" y="20">
                         <tspan class="bold">HeoJinYoung</tspan>
-                        <tspan>is a developer</tspan>
+                        <tspan>is a engineer</tspan>
                     </text>
                 </g>
                 <g transform="translate(0, 150)">
